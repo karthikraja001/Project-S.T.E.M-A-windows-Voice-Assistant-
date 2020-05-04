@@ -13,11 +13,11 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-'''bash
+```bash
 
 You can Just open the Start.bat file to run your STEM.
 
-'''
+```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
