@@ -90,7 +90,7 @@ def takeCommand():
     return query
 
 def wakeWord(text):
-    WAKE_WORDS = ['stem', 'okay stem', 'hey stem'] 
+    WAKE_WORDS = ['stem', 'okay stem', 'hey stem','hey'] 
     text = text.lower()
     for phrase in WAKE_WORDS:
         if phrase in text:
@@ -168,7 +168,7 @@ if __name__ == "__main__":
                     speak(f"Sir, {time}")
                 elif 'launch' in query:
                     app = query.replace("launch","")
-                    applaunch.openapp(app)
+                    applaunch.launch(app)
                     speak("With Pleasure") 
                 elif 'thank you' in query:
                     speak('Glad that I could help you. What would you like me to do next?')
