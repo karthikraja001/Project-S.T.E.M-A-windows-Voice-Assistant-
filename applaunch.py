@@ -3,10 +3,6 @@ import subprocess
 
 apps=['notepad','vscode','chrome','movies','wordpad','word','excel','powerpoint','study files','utorrent','whatsapp','workstation','arduino','nox']
 
-def openapp(app):
-    for app in apps:
-        if  apps==app:
-            launch(app)
 
 def launch(app):
     if app=="notepad":
