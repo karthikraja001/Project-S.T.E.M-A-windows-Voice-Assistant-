@@ -2,7 +2,7 @@
 This is my first python project. If you're interested in this project, please contact me. 
 This Name(STEM) is inspired from the Movie "Upgrade". 
 You can Talk to the assistant by saying the wake word, "Hey STEM".(For More Details, see DOCUMENTATION).
-If you face any error installing pyaudio, use the PyAudio-0.2.11-cp37-cp37m-win_amd64.whl file to install it.
+
 
 
 
@@ -12,6 +12,8 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
 pip install -r requirements.txt
+to install pyaudio, use
+pip install PyAudio-0.2.11-cp37-cp37m-win_amd64.whl
 ```
 
 ## Usage
