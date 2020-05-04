@@ -1,0 +1,13 @@
+Wakeword = Hey STEM
+
+Search queries
+    1.Google search, wikipedia search, = eg:-"search for lamborghini"
+    2.opening websites = eg:-"open youtube.com"
+    3.playing songs(play from youtube) = eg:-"play shape of you"
+    4.Speaking the time or date = eg:-"what is the date","what is the time"
+    5.News = eg:-"Whats the news for today"
+    6.Battery status(for Laptops) = eg:-"what's my battery status"
+    7.Launching application = eg:-"Launch Notepad","Launch Excel"
+    8.Weather Details = eg:-"What's the weather in california"
+    9.Location Based search = eg:-"where am i","i want to see some nearby coffee shops","show me the best route from chennai to bangalore"
+    10.Quit the Speech = eg:-"bye","quit","take rest"
