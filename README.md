@@ -13,12 +13,9 @@ pip install -r requirements.txt
 ```
 
 ## Usage
+You can Just open the Start.bat file to run your STEM.
 
-```python
-Simply execute the program in vs code app
- 
-python S.T.E.M.py
-```
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
