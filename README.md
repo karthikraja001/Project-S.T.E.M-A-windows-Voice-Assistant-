@@ -4,8 +4,8 @@ This Name(STEM) is inspired from the Movie "Upgrade".
 You can Talk to the assistant by saying the wake word, "Hey STEM".
 (For More Details, see DOCUMENTATION).
 
-![stem](https://user-images.githubusercontent.com/64122408/80941372-eff1ce80-8dff-11ea-906d-3294c78b5484.jpg)
-Picture of STEM(in the movie UPGRADE)
+![stem](https://user-images.githubusercontent.com/64122408/80941372-eff1ce80-8dff-11ea-906d-3294c78b5484.jpg)Picture of STEM(in the movie UPGRADE)
+
 
 ## Installation
 
